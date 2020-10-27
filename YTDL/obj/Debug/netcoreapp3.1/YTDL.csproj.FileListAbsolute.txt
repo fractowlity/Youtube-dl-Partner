@@ -1,0 +1,11 @@
+C:\HypnoRepos\YTDL\YTDL\bin\Debug\netcoreapp3.1\YTDL.exe
+C:\HypnoRepos\YTDL\YTDL\bin\Debug\netcoreapp3.1\YTDL.deps.json
+C:\HypnoRepos\YTDL\YTDL\bin\Debug\netcoreapp3.1\YTDL.runtimeconfig.json
+C:\HypnoRepos\YTDL\YTDL\bin\Debug\netcoreapp3.1\YTDL.runtimeconfig.dev.json
+C:\HypnoRepos\YTDL\YTDL\bin\Debug\netcoreapp3.1\YTDL.dll
+C:\HypnoRepos\YTDL\YTDL\bin\Debug\netcoreapp3.1\YTDL.pdb
+C:\HypnoRepos\YTDL\YTDL\obj\Debug\netcoreapp3.1\YTDL.AssemblyInfoInputs.cache
+C:\HypnoRepos\YTDL\YTDL\obj\Debug\netcoreapp3.1\YTDL.AssemblyInfo.cs
+C:\HypnoRepos\YTDL\YTDL\obj\Debug\netcoreapp3.1\YTDL.dll
+C:\HypnoRepos\YTDL\YTDL\obj\Debug\netcoreapp3.1\YTDL.pdb
+C:\HypnoRepos\YTDL\YTDL\obj\Debug\netcoreapp3.1\YTDL.csprojAssemblyReference.cache
